@@ -84,3 +84,11 @@ This is a code-book approach: every letter maps to a different innocuous word or
 - [cardan-grille](concepts/cardan-grille.md) — the grille cipher in detail
 - [notarikon](concepts/notarikon.md) — the Jewish cabalistic method
 - [trithemius](entities/trithemius.md) — the code-book system
+
+## Diagrams in the Original
+
+![Alphabet grid for substitution](assets/ch8-alphabet-page.png)
+*Substitution alphabet grid — larger encoding table*
+
+![Cipher example with Latin text](assets/ch8-cipher-example.png)
+*Worked cipher example — text encoded through extra-letter system*

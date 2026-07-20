@@ -74,3 +74,14 @@ Wilkins imagines scenarios where sound-based secret communication excels:
 > "Or suppose a city were straitly besieged, and there were either within it or without it, such a confederate, with whom we should necessarily confer about some design; we may by these means safely discover to him our intentions."
 
 The messenger employed here "is of so strange a nature, as not to be barred out with walls, or deterred by enemies."
+
+## Diagrams in the Original
+
+![Binary bell signals table](assets/ch17-binary-bells.png)
+*Bell signal encoding — two bells produce 32 combinations through sequence*
+
+![Signal note patterns](assets/ch17-signal-notes.png)
+*Note patterns for binary signaling — "lesser" and "greater" notes encode letters*
+
+![Three-letter signal table](assets/ch17-three-letter-table.png)
+*Three-letter alphabet encoding — more efficient signal encoding for speed*

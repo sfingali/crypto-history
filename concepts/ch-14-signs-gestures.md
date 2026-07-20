@@ -125,3 +125,14 @@ Wilkins suggests: scratching the head, rubbing parts of the face, winking eyes, 
 - [deaf-communication-history](concepts/deaf-communication-history.md) — Wilkins as a source text for deaf studies
 - [bede](entities/bede.md) — the Venerable Bede's *De Loquela per Gestum Digitorum*
 - [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — the suspicion problem shared with invented characters
+
+## Diagrams in the Original
+
+![Gesture system alpha](assets/ch14-gesture-alpha.png)
+*Gesture-based communication — hand positions for signalling*
+
+![Gesture system beta](assets/ch14-gesture-beta.png)
+*Additional gesture diagrams — systematic hand signing*
+
+![Finger alphabet chart](assets/ch14-finger-alphabet.png)
+*Finger alphabet — each finger position encodes a letter, derived from Bede*

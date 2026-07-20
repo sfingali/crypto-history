@@ -173,3 +173,15 @@ The 1694 edition contains woodcut tables for this chapter — among the earliest
 
 ![Double-alphabet encoding grid](assets/ch9-double-alphabet.png)
 *Double-alphabet encoding grid with Latin example*
+
+![Short binary table](assets/ch9-short-binary.png)
+*Compact binary encoding — A=aa, B=ab, C=ac...*
+
+![Two-letter transposition table](assets/ch9-two-letter-table.png)
+*Two letters transposed through five places — full 32-combination table*
+
+![Double alphabet page](assets/ch9-double-alphabet-page.png)
+*Double-alphabet system — cover text vs hidden message*
+
+![Besieged example](assets/ch9-besieged-example.png)
+*Practical example: besieged garrison sending a covert message*

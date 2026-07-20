@@ -104,3 +104,11 @@ A square tablet with the 24 letters on top at equal distances, with "divers litt
 - [ch-6-transposition](concepts/ch-6-transposition.md) — secrecy in the form of writing, beginning the core cryptography
 - [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — the knot/thread system revisited with more sophistication
 - [magic-naturalis](concepts/magic-naturalis.md) — Porta's *Natural Magic*, the source of many ink recipes
+
+## Diagrams in the Original
+
+![Knotted string cipher](assets/ch5-knotted-string.png)
+*Method of secret writing with knotted strings — different knot types encode different letters*
+
+![Cipher tablet with holes](assets/ch5-cipher-tablet.png)
+*Wooden tablet with holes — Aeneas Tacticus's string-through-holes encoding system*

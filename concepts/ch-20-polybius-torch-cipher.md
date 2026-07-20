@@ -151,4 +151,13 @@ The 1694 edition contains woodcut diagrams of the torch configurations:
 ![Torch position diagrams](assets/ch20-torch-positions.png)
 *Detailed torch position diagrams for the two-torch motion system*
 
+![HASTEN signal diagram](assets/ch20-hasten-signal.png)
+*Signalling "HASTEN": right-hand torch count = column, left-hand = row*
+
+![Three-torch system](assets/ch20-three-torch-system.png)
+*Joachimus Fortius's three-torch system — an alternative to Polybius's*
+
+![Two-torch motion code](assets/ch20-two-torch-motion.png)
+*Two-torch motion code — torch position (elevated/depressed/inclined) encodes letters*
+
 These are among the earliest printed illustrations of a cryptographic signalling system.
