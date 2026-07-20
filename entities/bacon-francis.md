@@ -10,7 +10,7 @@ confidence: high
 
 # Francis Bacon (1561–1626)
 
-**Francis Bacon**, Viscount St Alban, was an English philosopher, statesman, and jurist whose writings on scientific method and the classification of knowledge laid the intellectual foundations for the [[royal-society|Royal Society]] and profoundly influenced [[john-wilkins|John Wilkins]]. In [[mercury-wilkins|*Mercury*]], Wilkins calls him **"our English Aristotle"** — high praise from a man who generally rejected Aristotelianism — and draws on Bacon both for his general method and his specific contributions to cryptography.
+**Francis Bacon**, Viscount St Alban, was an English philosopher, statesman, and jurist whose writings on scientific method and the classification of knowledge laid the intellectual foundations for the [Royal Society](entities/royal-society.md) and profoundly influenced [John Wilkins](entities/john-wilkins.md). In [*Mercury*](entities/mercury-wilkins.md), Wilkins calls him **"our English Aristotle"** — high praise from a man who generally rejected Aristotelianism — and draws on Bacon both for his general method and his specific contributions to cryptography.
 
 ## Life
 
@@ -60,7 +60,7 @@ A printed page using a mixture of two subtly different fonts could encode a secr
 
 ### Wilkins's Treatment
 
-Wilkins describes the biliteral cipher in Chapter 9 ("Secret Writing with Fewer Letters than the Alphabet Requires," in the 1641 edition). He presents it as an instance of the general principle that any alphabet can be reduced to two symbols by systematic transposition through five places. He connects it to the binary alphabets used in the torch telegraph of [[ch-20-polybius-torch-cipher|Chapter 20]], where two torches (or two sounds, like bell and trumpet) can encode any letter through five sequential signals.
+Wilkins describes the biliteral cipher in Chapter 9 ("Secret Writing with Fewer Letters than the Alphabet Requires," in the 1641 edition). He presents it as an instance of the general principle that any alphabet can be reduced to two symbols by systematic transposition through five places. He connects it to the binary alphabets used in the torch telegraph of [Chapter 20](concepts/ch-20-polybius-torch-cipher.md), where two torches (or two sounds, like bell and trumpet) can encode any letter through five sequential signals.
 
 ### The Bacon-Shakespeare Controversy
 
@@ -78,7 +78,7 @@ Bacon's influence on Wilkins operates at multiple levels:
 
 4. **Utility**: Bacon wrote that knowledge should bear fruit in "works" — practical applications. Wilkins's *Mercury*, for all its theoretical richness, never loses sight of practical communication needs: secrecy, speed, reliability.
 
-5. **Universal language**: Bacon speculated about a "real character" in *The Advancement of Learning* — "characters that express neither letters nor words, but things and notions." This is the direct ancestor of Wilkins's [[ch-13-universal-character|Chapter 13]] and his later [[universal-language-project|*Essay*]].
+5. **Universal language**: Bacon speculated about a "real character" in *The Advancement of Learning* — "characters that express neither letters nor words, but things and notions." This is the direct ancestor of Wilkins's [Chapter 13](concepts/ch-13-universal-character.md) and his later [*Essay*](concepts/universal-language-project.md).
 
 ## Legacy
 
@@ -86,9 +86,9 @@ Bacon did not found the Royal Society (he died decades before its charter), but 
 
 ## Cross-References
 
-- [[john-wilkins]] — "our English Aristotle" in context
-- [[mercury-wilkins]] — *Mercury* as Baconian natural history
-- [[royal-society]] — the institution Bacon's vision inspired
-- [[ch-9-barbarous-words]] — the biliteral principle in fewer-letters ciphers
-- [[ch-13-universal-character]] — Bacon's "real character" speculation
-- [[universal-language-project]] — Wilkins's fulfilment of Bacon's linguistic vision
+- [john-wilkins](entities/john-wilkins.md) — "our English Aristotle" in context
+- [mercury-wilkins](entities/mercury-wilkins.md) — *Mercury* as Baconian natural history
+- [royal-society](entities/royal-society.md) — the institution Bacon's vision inspired
+- [ch-9-barbarous-words](concepts/ch-9-barbarous-words.md) — the biliteral principle in fewer-letters ciphers
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — Bacon's "real character" speculation
+- [universal-language-project](concepts/universal-language-project.md) — Wilkins's fulfilment of Bacon's linguistic vision

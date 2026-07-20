@@ -94,7 +94,7 @@ Wilkins notes that these are only the most "remarkable" examples "either for the
 
 ## Connections
 
-- [[ch-7-equal-letters-powers]] — the second method of equal-letter secrecy (substitution)
-- [[ch-8-more-letters]] — writing with more letters than needed
-- [[ch-3-speech-in-words]] — spoken transposition (inversion, the oral counterpart)
-- [[ch-11-invented-characters]] — the next class (invented rather than common characters)
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — the second method of equal-letter secrecy (substitution)
+- [ch-8-more-letters](concepts/ch-8-more-letters.md) — writing with more letters than needed
+- [ch-3-speech-in-words](concepts/ch-3-speech-in-words.md) — spoken transposition (inversion, the oral counterpart)
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — the next class (invented rather than common characters)

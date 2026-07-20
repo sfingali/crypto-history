@@ -64,8 +64,8 @@ The idea that music could be a **universally intelligible language** — bypassi
 
 The 1694 edition includes the only surviving print of Godwin's lunar musical alphabet:
 
-![[assets/ch18-musical-alphabet.png]]
+![ch18-musical-alphabet.png](assets/ch18-musical-alphabet.png)
 *Godwin's five-line stave with note positions mapped to letters*
 
-![[assets/ch18-gloria-deo-soli.png]]
+![ch18-gloria-deo-soli.png](assets/ch18-gloria-deo-soli.png)
 *"Gloria Deo soli" rendered as musical notation — the words are in the tune* ^[1802:8035-8150]

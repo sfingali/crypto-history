@@ -10,7 +10,7 @@ confidence: high
 
 # Francis Godwin (1562–1633)
 
-**Francis Godwin** was an English bishop, historian, and author whose work *Nuntius Inanimatus* (The Inanimate Messenger, 1629) directly inspired [[john-wilkins|John Wilkins]] to write [[mercury-wilkins|*Mercury: or the Secret and Swift Messenger*]] — the first cryptology book in English. He is also the author of *The Man in the Moone* (published posthumously in 1638), one of the first works of science fiction.
+**Francis Godwin** was an English bishop, historian, and author whose work *Nuntius Inanimatus* (The Inanimate Messenger, 1629) directly inspired [John Wilkins](entities/john-wilkins.md) to write [*Mercury: or the Secret and Swift Messenger*](entities/mercury-wilkins.md) — the first cryptology book in English. He is also the author of *The Man in the Moone* (published posthumously in 1638), one of the first works of science fiction.
 
 ## Life
 
@@ -80,8 +80,8 @@ Godwin's *The Man in the Moone* influenced later lunar fiction including Cyrano 
 
 ## Cross-References
 
-- [[john-wilkins]] — the man who cracked his code
-- [[mercury-wilkins]] — the book he inspired
-- [[polybius-cipher]] — the torch telegraph that explains *Nuntius Inanimatus*
-- [[ch-18-musical-notes]] — cracking the lunar musical code
-- [[ch-20-polybius-torch-cipher]] — the true method behind Godwin's promises
+- [john-wilkins](entities/john-wilkins.md) — the man who cracked his code
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book he inspired
+- [polybius-cipher](entities/polybius-cipher.md) — the torch telegraph that explains *Nuntius Inanimatus*
+- [ch-18-musical-notes](concepts/ch-18-musical-notes.md) — cracking the lunar musical code
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — the true method behind Godwin's promises

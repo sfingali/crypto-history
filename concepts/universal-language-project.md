@@ -10,7 +10,7 @@ confidence: high
 
 # Wilkins's Universal Language Project
 
-The **universal philosophical language** was [[john-wilkins|John Wilkins's]] most ambitious intellectual project — a system of writing in which symbols represent **things and concepts directly**, bypassing spoken language entirely. First articulated in seed form in [[ch-13-universal-character|Chapter 13]] of [[mercury-wilkins|*Mercury*]] (1641), the project consumed Wilkins for 27 years and culminated in *An Essay towards a Real Character and a Philosophical Language* (1668) — a folio of over 600 pages, published under the sponsorship of the [[royal-society|Royal Society]] and dedicated to its president.
+The **universal philosophical language** was [John Wilkins's](entities/john-wilkins.md) most ambitious intellectual project — a system of writing in which symbols represent **things and concepts directly**, bypassing spoken language entirely. First articulated in seed form in [Chapter 13](concepts/ch-13-universal-character.md) of [*Mercury*](entities/mercury-wilkins.md) (1641), the project consumed Wilkins for 27 years and culminated in *An Essay towards a Real Character and a Philosophical Language* (1668) — a folio of over 600 pages, published under the sponsorship of the [Royal Society](entities/royal-society.md) and dedicated to its president.
 
 ## The Vision
 
@@ -102,7 +102,7 @@ The chapter ends with this open invitation — and Wilkins spent the rest of his
 
 ### On Leibniz
 
-[[leibniz|Gottfried Wilhelm Leibniz]] read the *Essay* soon after publication and corresponded about it extensively. He admired Wilkins's ambition but found the execution insufficiently philosophical: Wilkins's symbols were arbitrary rather than logically derived from first principles. Leibniz's *characteristica universalis* aimed higher — a language where truth could be **calculated** by manipulating symbols — but the starting point was the same: concepts before words, reason before grammar.
+[Gottfried Wilhelm Leibniz](entities/leibniz.md) read the *Essay* soon after publication and corresponded about it extensively. He admired Wilkins's ambition but found the execution insufficiently philosophical: Wilkins's symbols were arbitrary rather than logically derived from first principles. Leibniz's *characteristica universalis* aimed higher — a language where truth could be **calculated** by manipulating symbols — but the starting point was the same: concepts before words, reason before grammar.
 
 ### On Dalgarno
 
@@ -136,9 +136,9 @@ Wilkins's dream — that "the confusion at Babel might this way have been remedi
 
 ## Cross-References
 
-- [[ch-13-universal-character]] — the seed chapter in *Mercury* (1641)
-- [[john-wilkins]] — the author's biography
-- [[mercury-wilkins]] — the book that launched the project
-- [[royal-society]] — the sponsoring institution
-- [[leibniz]] — the project's most famous critic and successor
-- [[francis-godwin]] — the lunar language that provided early inspiration
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — the seed chapter in *Mercury* (1641)
+- [john-wilkins](entities/john-wilkins.md) — the author's biography
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book that launched the project
+- [royal-society](entities/royal-society.md) — the sponsoring institution
+- [leibniz](entities/leibniz.md) — the project's most famous critic and successor
+- [francis-godwin](entities/francis-godwin.md) — the lunar language that provided early inspiration

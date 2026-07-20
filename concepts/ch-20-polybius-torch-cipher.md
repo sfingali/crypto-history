@@ -139,10 +139,10 @@ Wilkins then explicitly connects these methods back to the book's origin: Godwin
 
 The 1694 edition contains woodcut diagrams of the torch configurations:
 
-![[assets/ch20-polybius-grid.png]]
+![ch20-polybius-grid.png](assets/ch20-polybius-grid.png)
 *Polybius 5×5 grid — columns I–V, rows 1–5*
 
-![[assets/ch20-two-torch-code.png]]
+![ch20-two-torch-code.png](assets/ch20-two-torch-code.png)
 *Two-torch position code — all 24 letters signalled by torch position and motion*
 
 These are among the earliest printed illustrations of a cryptographic signalling system.

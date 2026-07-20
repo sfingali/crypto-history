@@ -10,7 +10,7 @@ confidence: high
 
 # Polybius Cipher (The Torch Telegraph)
 
-The **Polybius cipher** is an ancient Greek optical telegraph system described by the historian **Polybius** (c. 200–118 BCE) in Book 10 of his *Histories*, and transmitted to modernity through [[john-wilkins|John Wilkins's]] detailed explanation in [[mercury-wilkins|*Mercury*]], Chapter 20. It is the earliest known cryptographic grid system — a method of encoding the alphabet into coordinate pairs transmitted by torch signals.
+The **Polybius cipher** is an ancient Greek optical telegraph system described by the historian **Polybius** (c. 200–118 BCE) in Book 10 of his *Histories*, and transmitted to modernity through [John Wilkins's](entities/john-wilkins.md) detailed explanation in [*Mercury*](entities/mercury-wilkins.md), Chapter 20. It is the earliest known cryptographic grid system — a method of encoding the alphabet into coordinate pairs transmitted by torch signals.
 
 ## The Method (as described in Polybius, via Wilkins)
 
@@ -94,7 +94,7 @@ He also relates that in China, watch-stations used smoke by day and fire by nigh
 
 ## Connection to Godwin's *Nuntius Inanimatus*
 
-Wilkins explicitly identifies this torch/smoke system as the **true method** behind Francis Godwin's cryptic promises in [[francis-godwin|*Nuntius Inanimatus*]]. He quotes Godwin's Latin: signals must be *distinguibile pro numero audiendorum* (distinguishable by the number of things to be heard) and must vary *vel genere, vel tempore, modo etiam et numero* (in kind, or time, also in manner and number).
+Wilkins explicitly identifies this torch/smoke system as the **true method** behind Francis Godwin's cryptic promises in [*Nuntius Inanimatus*](entities/francis-godwin.md). He quotes Godwin's Latin: signals must be *distinguibile pro numero audiendorum* (distinguishable by the number of things to be heard) and must vary *vel genere, vel tempore, modo etiam et numero* (in kind, or time, also in manner and number).
 
 Godwin even gave a concrete example: a message from London to Bristol, arriving "before twelve of the clock" even if sent at noon — since the signal travels faster than the difference in meridians.
 
@@ -108,8 +108,8 @@ The Polybius cipher is:
 
 ## Cross-References
 
-- [[mercury-wilkins]] — Wilkins's full treatment
-- [[ch-20-polybius-torch-cipher]] — Chapter 20 detailed context
-- [[francis-godwin]] — *Nuntius Inanimatus*
-- [[john-wilkins]] — author biography
-- [[history-of-cryptography]]
+- [mercury-wilkins](entities/mercury-wilkins.md) — Wilkins's full treatment
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — Chapter 20 detailed context
+- [francis-godwin](entities/francis-godwin.md) — *Nuntius Inanimatus*
+- [john-wilkins](entities/john-wilkins.md) — author biography
+- [history-of-cryptography](concepts/history-of-cryptography.md)

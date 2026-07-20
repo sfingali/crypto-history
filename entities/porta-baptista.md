@@ -10,7 +10,7 @@ confidence: high
 
 # Giambattista della Porta (1535–1615)
 
-**Giambattista della Porta** (also known as Giovanni Battista della Porta, Baptista Porta) was a Neapolitan polymath — cryptographer, natural philosopher, dramatist, and one of the most cited authorities in [[john-wilkins|John Wilkins's]] [[mercury-wilkins|*Mercury*]]. His *Magia Naturalis* (Natural Magic, 1558) and *De Furtivis Literarum Notis* (On Secret Writing, 1563) made him the foremost Renaissance authority on cryptography before Wilkins.
+**Giambattista della Porta** (also known as Giovanni Battista della Porta, Baptista Porta) was a Neapolitan polymath — cryptographer, natural philosopher, dramatist, and one of the most cited authorities in [John Wilkins's](entities/john-wilkins.md) [*Mercury*](entities/mercury-wilkins.md). His *Magia Naturalis* (Natural Magic, 1558) and *De Furtivis Literarum Notis* (On Secret Writing, 1563) made him the foremost Renaissance authority on cryptography before Wilkins.
 
 ## Life
 
@@ -20,13 +20,13 @@ He wrote over twenty books on subjects ranging from cryptography to optics, phys
 
 ## *De Furtivis Literarum Notis* (1563)
 
-Porta's cryptographic treatise *De Furtivis Literarum Notis* ("On the Secret Marks of Letters") was the most comprehensive work on the subject before *Mercury*. Wilkins draws on it throughout *Mercury*, and Porta is frequently grouped with [[trithemius|Trithemius]] and Selenus as the three pre-Wilkins cryptographic authorities.
+Porta's cryptographic treatise *De Furtivis Literarum Notis* ("On the Secret Marks of Letters") was the most comprehensive work on the subject before *Mercury*. Wilkins draws on it throughout *Mercury*, and Porta is frequently grouped with [Trithemius](entities/trithemius.md) and Selenus as the three pre-Wilkins cryptographic authorities.
 
 Key contributions in *De Furtivis*:
 
-- **The cipher disk**: A circular device with two concentric alphabets, one rotatable, allowing rapid encryption and decryption by substitution. This is the "wheel character" that Wilkins references in [[ch-7-equal-letters-powers|Chapter 7]] — "you may see largely described by Porta."
-- **Frequency analysis**: Porta provided systematic rules for breaking substitution ciphers by letter frequency — the method Wilkins expands upon in [[ch-11-invented-characters|Chapter 11]]
-- **Secret inks**: Extensive catalogue of invisible writing methods, cited by Wilkins in [[ch-5-materials|Chapter 5]]
+- **The cipher disk**: A circular device with two concentric alphabets, one rotatable, allowing rapid encryption and decryption by substitution. This is the "wheel character" that Wilkins references in [Chapter 7](concepts/ch-7-equal-letters-powers.md) — "you may see largely described by Porta."
+- **Frequency analysis**: Porta provided systematic rules for breaking substitution ciphers by letter frequency — the method Wilkins expands upon in [Chapter 11](concepts/ch-11-invented-characters.md)
+- **Secret inks**: Extensive catalogue of invisible writing methods, cited by Wilkins in [Chapter 5](concepts/ch-5-materials.md)
 - **Steganographic methods**: Concealment techniques beyond cryptography
 
 ## *Magia Naturalis* (1558, expanded 1589)
@@ -49,7 +49,7 @@ Wilkins relates this dramatic anecdote from Porta:
 
 > When the citizens of Navarre were besieged and their city was on the point of surrendering, a certain man within proposed to walk out through the enemy's camp, passing himself off as a deserter. Before leaving, he swallowed a small box containing a letter written on thin paper. Once through the lines, he recovered the box "amongst other excrements" and delivered the letter to the relieving forces.
 
-Wilkins mentions this in [[ch-4-secret-conveyances|Chapter 4]] alongside the similar story from [[josephus|Josephus]] about Jews swallowing gold at the siege of Jerusalem. He pairs the two to illustrate the extreme lengths to which people would go for secret communication "for want of skill in this subject that is here discoursed of" — Wilkins's implicit argument that cryptology renders such bodily extremes unnecessary.
+Wilkins mentions this in [Chapter 4](concepts/ch-4-secret-conveyances.md) alongside the similar story from [Josephus](entities/josephus.md) about Jews swallowing gold at the siege of Jerusalem. He pairs the two to illustrate the extreme lengths to which people would go for secret communication "for want of skill in this subject that is here discoursed of" — Wilkins's implicit argument that cryptology renders such bodily extremes unnecessary.
 
 ## Wilkins's Citations of Porta
 
@@ -69,7 +69,7 @@ Wilkins trusts Porta on cryptography but is more sceptical of his "natural magic
 
 ## The Accademia Secretorum Naturae
 
-Porta's short-lived academy in Naples may have been the **first scientific society** — predating the [[royal-society|Royal Society]] by nearly a century. Like the Royal Society, it required members to present experimental findings. Unlike it, it was suppressed. The Inquisition's suspicion of Porta (he was also investigated for *Magia Naturalis*) underscores how dangerous "experimental philosophy" could be in Counter-Reformation Italy — and how fortunate Wilkins was to operate in a more tolerant English context.
+Porta's short-lived academy in Naples may have been the **first scientific society** — predating the [Royal Society](entities/royal-society.md) by nearly a century. Like the Royal Society, it required members to present experimental findings. Unlike it, it was suppressed. The Inquisition's suspicion of Porta (he was also investigated for *Magia Naturalis*) underscores how dangerous "experimental philosophy" could be in Counter-Reformation Italy — and how fortunate Wilkins was to operate in a more tolerant English context.
 
 ## Legacy
 
@@ -77,10 +77,10 @@ Porta stands at the transition point between Renaissance natural magic and moder
 
 ## Cross-References
 
-- [[mercury-wilkins]] — Wilkins's most-cited authority
-- [[ch-7-equal-letters-powers]] — the cipher disk and wheel character
-- [[ch-11-invented-characters]] — Porta's frequency analysis rules
-- [[ch-4-secret-conveyances]] — the siege of Navarre story
-- [[ch-5-materials]] — secret inks and materials
-- [[trithemius]] — frequently paired with Porta as a pre-Wilkins authority
-- [[josephus]] — the parallel swallowed-gold story
+- [mercury-wilkins](entities/mercury-wilkins.md) — Wilkins's most-cited authority
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — the cipher disk and wheel character
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — Porta's frequency analysis rules
+- [ch-4-secret-conveyances](concepts/ch-4-secret-conveyances.md) — the siege of Navarre story
+- [ch-5-materials](concepts/ch-5-materials.md) — secret inks and materials
+- [trithemius](entities/trithemius.md) — frequently paired with Porta as a pre-Wilkins authority
+- [josephus](entities/josephus.md) — the parallel swallowed-gold story

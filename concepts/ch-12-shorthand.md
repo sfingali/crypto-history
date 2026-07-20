@@ -123,8 +123,8 @@ Emblems were "inserted as ornaments, upon vessels of gold, and other matters of 
 
 ## Connections
 
-- [[ch-13-universal-character]] — the next level: characters for things/notions as universal communication
-- [[ch-11-invented-characters]] — characters for letters (previous chapter)
-- [[ch-10-fewer-letters]] — abbreviation and contraction
-- [[hieroglyphics]] — Egyptian sacred writing
-- [[emblems]] — the emblem tradition
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — the next level: characters for things/notions as universal communication
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — characters for letters (previous chapter)
+- [ch-10-fewer-letters](concepts/ch-10-fewer-letters.md) — abbreviation and contraction
+- [hieroglyphics](concepts/hieroglyphics.md) — Egyptian sacred writing
+- [emblems](concepts/emblems.md) — the emblem tradition

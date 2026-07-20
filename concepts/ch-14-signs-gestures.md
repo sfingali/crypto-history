@@ -120,8 +120,8 @@ Wilkins suggests: scratching the head, rubbing parts of the face, winking eyes, 
 
 ## Connections
 
-- [[ch-1-dependence-in-nature]] — signs as the third mode of communication, foreshadowed in Chapter 1
-- [[ch-2-secrecy-conditions]] — the criteria for good secrecy (this method fails on suspicion)
-- [[deaf-communication-history]] — Wilkins as a source text for deaf studies
-- [[bede]] — the Venerable Bede's *De Loquela per Gestum Digitorum*
-- [[ch-11-invented-characters]] — the suspicion problem shared with invented characters
+- [ch-1-dependence-in-nature](concepts/ch-1-dependence-in-nature.md) — signs as the third mode of communication, foreshadowed in Chapter 1
+- [ch-2-secrecy-conditions](concepts/ch-2-secrecy-conditions.md) — the criteria for good secrecy (this method fails on suspicion)
+- [deaf-communication-history](concepts/deaf-communication-history.md) — Wilkins as a source text for deaf studies
+- [bede](entities/bede.md) — the Venerable Bede's *De Loquela per Gestum Digitorum*
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — the suspicion problem shared with invented characters

@@ -10,7 +10,7 @@ confidence: high
 
 # Mercury (1641) vs Essay (1668): The Seed and the Fruit
 
-[[john-wilkins|John Wilkins]] published two books that bookend his intellectual career. *Mercury: or the Secret and Swift Messenger* appeared in 1641, when Wilkins was 27 — a young chaplain writing on the eve of civil war. *An Essay towards a Real Character, and a Philosophical Language* appeared in 1668, when Wilkins was 54 — a bishop of the established church, a founder of the [[royal-society|Royal Society]], and one of the most respected intellectuals in England. Between them lie 27 years, a revolution, a Restoration, and the transformation of a practical manual into a philosophical monument.
+[John Wilkins](entities/john-wilkins.md) published two books that bookend his intellectual career. *Mercury: or the Secret and Swift Messenger* appeared in 1641, when Wilkins was 27 — a young chaplain writing on the eve of civil war. *An Essay towards a Real Character, and a Philosophical Language* appeared in 1668, when Wilkins was 54 — a bishop of the established church, a founder of the [Royal Society](entities/royal-society.md), and one of the most respected intellectuals in England. Between them lie 27 years, a revolution, a Restoration, and the transformation of a practical manual into a philosophical monument.
 
 ## Dimensions of Comparison
 
@@ -20,7 +20,7 @@ confidence: high
 | **Central problem** | How to communicate secretly and swiftly | How to represent all knowledge in a universal symbolic system |
 | **Scope** | Cryptography and secret communication in all forms — ciphers, steganography, signals, gestures, universal characters | A complete taxonomy of all human knowledge, expressed through a constructed language of symbolic characters |
 | **Length** | ~200 pages (1641 edition), 20 chapters | ~600 pages (folio), with elaborate taxonomic tables, a dictionary, and a grammar |
-| **[[ch-13-universal-character|Chapter 13]] role** | One chapter among twenty — the seed of a larger vision, occupying ~6 pages | The entire book — the fruit of 27 years of development |
+| **[Chapter 13](concepts/ch-13-universal-character.md) role** | One chapter among twenty — the seed of a larger vision, occupying ~6 pages | The entire book — the fruit of 27 years of development |
 | **Tone** | Practical, urgent, conversational — a handbook for "statesmen and soldiers" in a time of impending conflict | Systematic, institutional, confident — a monumental work published under Royal Society sponsorship and dedicated to the Society's president |
 | **Historical context** | 1641: Charles I's personal rule collapsing; the Long Parliament convening; Civil War imminent. Urgency of secret communication is immediate and military. | 1668: Restoration established; Royal Society chartered (1662); Wilkins a bishop. Institutional confidence of a settled scientific establishment. |
 | **Primary audience** | Practical men: soldiers, diplomats, merchants | Scholars, philosophers, the international Republic of Letters |
@@ -33,7 +33,7 @@ confidence: high
 
 ## The Seed: Chapter 13 of Mercury
 
-[[ch-13-universal-character|Chapter 13]] of *Mercury* is a **manifesto** — six pages that outline an entire research programme. Its argument is breathtakingly compressed:
+[Chapter 13](concepts/ch-13-universal-character.md) of *Mercury* is a **manifesto** — six pages that outline an entire research programme. Its argument is breathtakingly compressed:
 
 > "After the fall of Adam, there were two general curses inflicted on mankind: the one upon their labours, the other upon their language."
 
@@ -133,12 +133,12 @@ The seed and the fruit. The manifesto and the monument. The cryptographer and th
 
 ## Cross-References
 
-- [[john-wilkins]] — full entity page
-- [[mercury-wilkins]] — *Mercury* entity page
-- [[ch-13-universal-character]] — the seed chapter in detail
-- [[universal-language-project]] — the *Essay* and its context
-- [[royal-society]] — the institutional context
-- [[bacon-francis]] — Bacon's "real character" vision
-- [[leibniz]] — the *Essay*'s influence on the *characteristica universalis*
-- [[hieroglyphics]] — an earlier "real character" tradition
-- [[ch-14-signs-gestures]] — gestural communication, another universal mode
+- [john-wilkins](entities/john-wilkins.md) — full entity page
+- [mercury-wilkins](entities/mercury-wilkins.md) — *Mercury* entity page
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — the seed chapter in detail
+- [universal-language-project](concepts/universal-language-project.md) — the *Essay* and its context
+- [royal-society](entities/royal-society.md) — the institutional context
+- [bacon-francis](entities/bacon-francis.md) — Bacon's "real character" vision
+- [leibniz](entities/leibniz.md) — the *Essay*'s influence on the *characteristica universalis*
+- [hieroglyphics](concepts/hieroglyphics.md) — an earlier "real character" tradition
+- [ch-14-signs-gestures](concepts/ch-14-signs-gestures.md) — gestural communication, another universal mode

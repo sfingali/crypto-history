@@ -10,7 +10,7 @@ confidence: high
 
 # Carrier Pigeons: A History of Pigeon Post
 
-The use of **carrier pigeons** (homing pigeons) for message delivery is one of the oldest and most reliable forms of long-distance communication. [[john-wilkins|John Wilkins]], in [[ch-16-swiftness-by-bodies|Chapter 16]] of [[mercury-wilkins|*Mercury*]], provides a comprehensive anthology of pigeon-post stories from antiquity to his own time, arguing that "amongst all animate bodies, there is not any that have naturally so swift a motion as birds."
+The use of **carrier pigeons** (homing pigeons) for message delivery is one of the oldest and most reliable forms of long-distance communication. [John Wilkins](entities/john-wilkins.md), in [Chapter 16](concepts/ch-16-swiftness-by-bodies.md) of [*Mercury*](entities/mercury-wilkins.md), provides a comprehensive anthology of pigeon-post stories from antiquity to his own time, arguing that "amongst all animate bodies, there is not any that have naturally so swift a motion as birds."
 
 ## The Pigeon's Talent
 
@@ -105,8 +105,8 @@ The "carrier" breed that Wilkins described was only the beginning.
 
 ## Cross-References
 
-- [[ch-16-swiftness-by-bodies]] — the full chapter where carrier pigeons are discussed
-- [[ch-4-secret-conveyances]] — birds mentioned in the earlier chapter on secret conveyance
-- [[mercury-wilkins]] — the book
-- [[john-wilkins]] — the author
-- [[ch-15-spiritual-substances]] — angels (the non-biological alternative)
+- [ch-16-swiftness-by-bodies](concepts/ch-16-swiftness-by-bodies.md) — the full chapter where carrier pigeons are discussed
+- [ch-4-secret-conveyances](concepts/ch-4-secret-conveyances.md) — birds mentioned in the earlier chapter on secret conveyance
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book
+- [john-wilkins](entities/john-wilkins.md) — the author
+- [ch-15-spiritual-substances](concepts/ch-15-spiritual-substances.md) — angels (the non-biological alternative)

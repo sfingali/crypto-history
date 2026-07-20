@@ -10,7 +10,7 @@ confidence: high
 
 # The Royal Society of London for Improving Natural Knowledge
 
-The **Royal Society** is the world's oldest continuously operating scientific academy, founded in 1660 with [[john-wilkins|John Wilkins]] as one of its principal founders and first secretary. It became the institutional embodiment of the "new philosophy" — experimental, collaborative, and empirical inquiry into nature — that marked the Scientific Revolution.
+The **Royal Society** is the world's oldest continuously operating scientific academy, founded in 1660 with [John Wilkins](entities/john-wilkins.md) as one of its principal founders and first secretary. It became the institutional embodiment of the "new philosophy" — experimental, collaborative, and empirical inquiry into nature — that marked the Scientific Revolution.
 
 ## Origins: The Oxford Circle at Wadham College
 
@@ -34,9 +34,9 @@ The Society received its Royal Charter from Charles II on **15 July 1662**, beco
 
 ## Wilkins's Role
 
-Wilkins was more than a founder — he was the "principal reviver of experimental philosophy" and the driving spirit of the early Society. His 1641 book [[mercury-wilkins|*Mercury*]] had already demonstrated his encyclopaedic, evidence-based approach to knowledge. John Aubrey described him as "a very ingeniose man, and had a very mechanical head; he was much for the advancement of universal learning."
+Wilkins was more than a founder — he was the "principal reviver of experimental philosophy" and the driving spirit of the early Society. His 1641 book [*Mercury*](entities/mercury-wilkins.md) had already demonstrated his encyclopaedic, evidence-based approach to knowledge. John Aubrey described him as "a very ingeniose man, and had a very mechanical head; he was much for the advancement of universal learning."
 
-His 1668 [[universal-language-project|*Essay towards a Real Character and a Philosophical Language*]] was published under the Society's sponsorship and dedicated to its president — the project of classifying all knowledge into a systematic framework perfectly embodied the Society's ambition.
+His 1668 [*Essay towards a Real Character and a Philosophical Language*](concepts/universal-language-project.md) was published under the Society's sponsorship and dedicated to its president — the project of classifying all knowledge into a systematic framework perfectly embodied the Society's ambition.
 
 ## Ethos: The Experimental Method
 
@@ -64,7 +64,7 @@ Before the Wadham circle, during the Civil War period, the "**Invisible College*
 - **Practical**: He addresses real-world needs — private communication, swift messaging
 - **Collaborative**: He draws on sources from classical antiquity to his own contemporaries
 
-The preface to *Mercury* also shows Wilkins's typical open-mindedness: he was prepared to investigate [[francis-godwin|Godwin's]] claims seriously, even when they seemed "altogether fabulous."
+The preface to *Mercury* also shows Wilkins's typical open-mindedness: he was prepared to investigate [Godwin's](entities/francis-godwin.md) claims seriously, even when they seemed "altogether fabulous."
 
 ## Legacy
 
@@ -74,8 +74,8 @@ Wilkins's vision of science as a collaborative, experimental, and practical ente
 
 ## Cross-References
 
-- [[john-wilkins]] — founder and first secretary
-- [[mercury-wilkins]] — the book that preceded the Society
-- [[universal-language-project]] — published under Society sponsorship
-- [[leibniz]] — the Society's German correspondent and Fellow
-- [[bacon-francis]] — philosophical inspiration for the Society's method
+- [john-wilkins](entities/john-wilkins.md) — founder and first secretary
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book that preceded the Society
+- [universal-language-project](concepts/universal-language-project.md) — published under Society sponsorship
+- [leibniz](entities/leibniz.md) — the Society's German correspondent and Fellow
+- [bacon-francis](entities/bacon-francis.md) — philosophical inspiration for the Society's method

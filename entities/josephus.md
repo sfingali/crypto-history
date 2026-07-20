@@ -10,7 +10,7 @@ confidence: high
 
 # Flavius Josephus (c. 37–c. 100 CE)
 
-**Flavius Josephus** (born Yosef ben Matityahu) was a Jewish historian and military commander whose works — particularly *The Jewish War* (*Bellum Judaicum*) — are among the most important sources for first-century Jewish history. In [[mercury-wilkins|*Mercury*]], [[john-wilkins|John Wilkins]] references Josephus for a memorably grotesque anecdote: Jews swallowing gold at the siege of Jerusalem. But Josephus's relevance to cryptography and secret communication extends further than this single story.
+**Flavius Josephus** (born Yosef ben Matityahu) was a Jewish historian and military commander whose works — particularly *The Jewish War* (*Bellum Judaicum*) — are among the most important sources for first-century Jewish history. In [*Mercury*](entities/mercury-wilkins.md), [John Wilkins](entities/john-wilkins.md) references Josephus for a memorably grotesque anecdote: Jews swallowing gold at the siege of Jerusalem. But Josephus's relevance to cryptography and secret communication extends further than this single story.
 
 ## Life
 
@@ -37,7 +37,7 @@ Josephus reports this with grim resignation. The act of swallowing gold was a de
 
 ### The Swallowed Gold (Chapter 4)
 
-In [[ch-4-secret-conveyances|Chapter 4]] of *Mercury*, Wilkins catalogues every known method of physically concealing a written message. After describing methods involving animal carcasses, wax tablets, and scalp tattoos, he mentions the Josephus story:
+In [Chapter 4](concepts/ch-4-secret-conveyances.md) of *Mercury*, Wilkins catalogues every known method of physically concealing a written message. After describing methods involving animal carcasses, wax tablets, and scalp tattoos, he mentions the Josephus story:
 
 > "Some of the fugitive Jews at the siege of Jerusalem did swallow down their gold in little bullets, that afterwards amongst other excrements they might recover it again."
 
@@ -87,7 +87,7 @@ For Wilkins and his contemporaries, Josephus was not an obscure specialist sourc
 
 ## Connection to Porta's Navarre Story
 
-Wilkins pairs the Josephus swallowed-gold story with [[porta-baptista|Porta's]] account of a man at the siege of Navarre who swallowed a box containing a letter. Both involve ingestion and subsequent recovery; both involve siege conditions; both represent the extreme end of physical steganography. Together, they form a matched pair of **ingestion narratives** — the ultimate bodily concealment. Wilkins's point is that both were desperate measures made necessary by ignorance of cryptographic technique. Learn ciphers, avoid indigestion.
+Wilkins pairs the Josephus swallowed-gold story with [Porta's](entities/porta-baptista.md) account of a man at the siege of Navarre who swallowed a box containing a letter. Both involve ingestion and subsequent recovery; both involve siege conditions; both represent the extreme end of physical steganography. Together, they form a matched pair of **ingestion narratives** — the ultimate bodily concealment. Wilkins's point is that both were desperate measures made necessary by ignorance of cryptographic technique. Learn ciphers, avoid indigestion.
 
 ## Historical Significance for Cryptography
 
@@ -103,8 +103,8 @@ Josephus's significance for the history of cryptography is indirect but real:
 
 ## Cross-References
 
-- [[mercury-wilkins]] — *Mercury*, Chapter 4
-- [[ch-4-secret-conveyances]] — the chapter where the gold-swallowing and Jotapata stories appear
-- [[porta-baptista]] — the parallel Navarre story
-- [[john-wilkins]] — the author who mined classical sources for cryptographic anecdotes
-- [[history-of-cryptography]] — wider historical context
+- [mercury-wilkins](entities/mercury-wilkins.md) — *Mercury*, Chapter 4
+- [ch-4-secret-conveyances](concepts/ch-4-secret-conveyances.md) — the chapter where the gold-swallowing and Jotapata stories appear
+- [porta-baptista](entities/porta-baptista.md) — the parallel Navarre story
+- [john-wilkins](entities/john-wilkins.md) — the author who mined classical sources for cryptographic anecdotes
+- [history-of-cryptography](concepts/history-of-cryptography.md) — wider historical context

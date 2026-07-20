@@ -10,7 +10,7 @@ confidence: high
 
 # Frequency Analysis in Cryptology
 
-**Frequency analysis** is the fundamental technique of classical cryptanalysis — the method of breaking substitution ciphers by analysing how often each symbol appears in the ciphertext and matching those frequencies to known letter distributions in the target language. [[john-wilkins|John Wilkins]] provides one of the earliest English-language descriptions of the method in [[ch-11-invented-characters|Chapter 11]] of [[mercury-wilkins|*Mercury*]] (1641), predating the better-known treatments by nearly a century.
+**Frequency analysis** is the fundamental technique of classical cryptanalysis — the method of breaking substitution ciphers by analysing how often each symbol appears in the ciphertext and matching those frequencies to known letter distributions in the target language. [John Wilkins](entities/john-wilkins.md) provides one of the earliest English-language descriptions of the method in [Chapter 11](concepts/ch-11-invented-characters.md) of [*Mercury*](entities/mercury-wilkins.md) (1641), predating the better-known treatments by nearly a century.
 
 ## The Principle
 
@@ -38,7 +38,7 @@ This knowledge passed into the Islamic cryptographic tradition and fundamentally
 
 ### Porta (1563)
 
-[[porta-baptista|Giambattista della Porta]] described frequency-based cryptanalysis in *De Furtivis Literarum Notis* (1563), providing systematic rules for Italian and Latin. Wilkins explicitly credits Porta as a source: "you may see them largely handled by Baptista Porta, and Gustavus Selenus."
+[Giambattista della Porta](entities/porta-baptista.md) described frequency-based cryptanalysis in *De Furtivis Literarum Notis* (1563), providing systematic rules for Italian and Latin. Wilkins explicitly credits Porta as a source: "you may see them largely handled by Baptista Porta, and Gustavus Selenus."
 
 ### Selenus (1624)
 
@@ -103,7 +103,7 @@ Wilkins acknowledges that frequency analysis is powerful but not invincible. He 
 
 4. **Insert nulls**: Add non-significant characters that don't map to anything.
 
-These four countermeasures anticipate the development of **polyalphabetic ciphers** — the next major advance in cryptographic security — which Wilkins had already described in [[ch-7-equal-letters-powers|Chapter 7]] (the key-character cipher). Wilkins is unusual among early cryptographers in presenting both the lock (the cipher) and the key (frequency analysis) in the same book.
+These four countermeasures anticipate the development of **polyalphabetic ciphers** — the next major advance in cryptographic security — which Wilkins had already described in [Chapter 7](concepts/ch-7-equal-letters-powers.md) (the key-character cipher). Wilkins is unusual among early cryptographers in presenting both the lock (the cipher) and the key (frequency analysis) in the same book.
 
 ## Historical Significance
 
@@ -121,8 +121,8 @@ Wilkins does not provide comprehensive frequency tables — he defers to Porta a
 
 ## Cross-References
 
-- [[ch-11-invented-characters]] — the chapter where Wilkins presents frequency analysis
-- [[ch-7-equal-letters-powers]] — the polyalphabetic cipher (countermeasure)
-- [[mercury-wilkins]] — the book
-- [[porta-baptista]] — Wilkins's cited source on frequency analysis
-- [[atbash]] — the simplest substitution cipher vulnerable to frequency analysis
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — the chapter where Wilkins presents frequency analysis
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — the polyalphabetic cipher (countermeasure)
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book
+- [porta-baptista](entities/porta-baptista.md) — Wilkins's cited source on frequency analysis
+- [atbash](concepts/atbash.md) — the simplest substitution cipher vulnerable to frequency analysis

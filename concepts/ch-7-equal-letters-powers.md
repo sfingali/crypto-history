@@ -95,9 +95,9 @@ This is equivalent to adding a **mixed alphabet** on top of the keyword — two 
 
 ## Connections
 
-- [[ch-6-transposition]] — the other equal-letters method
-- [[ch-8-more-letters]] — next method (more letters than needed)
-- [[ch-3-speech-in-words]] — spoken substitution (transmutation)
-- [[polybius-cipher]] — the coordinate-based cipher from Chapter 20
-- [[porta-cipher-disk]] — the wheel character mentioned as further refinement
-- [[atbash]] — the Athbash cipher in detail
+- [ch-6-transposition](concepts/ch-6-transposition.md) — the other equal-letters method
+- [ch-8-more-letters](concepts/ch-8-more-letters.md) — next method (more letters than needed)
+- [ch-3-speech-in-words](concepts/ch-3-speech-in-words.md) — spoken substitution (transmutation)
+- [polybius-cipher](entities/polybius-cipher.md) — the coordinate-based cipher from Chapter 20
+- [porta-cipher-disk](concepts/porta-cipher-disk.md) — the wheel character mentioned as further refinement
+- [atbash](concepts/atbash.md) — the Athbash cipher in detail

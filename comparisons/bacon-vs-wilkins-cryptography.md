@@ -24,11 +24,11 @@ Wilkins explicitly places himself in Bacon's intellectual lineage. In the introd
 | **Cryptography's place** | A sub-section of Grammar, under the "organ of speech" — one entry in an encyclopaedia of all the sciences | The centrepiece — the entire book treats ciphers, steganography, signals, and universal characters as a unified field |
 | **Method** | Taxonomic classification: where does this fit in the tree of knowledge? | Encyclopaedic collection: what are all the things people have done in this domain? |
 | **Primary cipher contribution** | The **biliteral cipher** — a binary encoding system of elegant theoretical simplicity. Any letter expressed as 5 `a`/`b` values (2⁵ = 32). Hidden via two typefaces. | Multiple cipher systems: substitution with equal/more/fewer letters, transposition, invented characters, key-character systems. Practical adaptability over theoretical elegance. |
-| **Treatment of the biliteral cipher** | Originator. Described in *De Augmentis* Book 6, Chapter 8. | Explainer and extender. Discusses it in [[ch-9-barbarous-words|Chapter 9]] as one instance of the general principle that any alphabet can be reduced to two symbols. Connects it to the torch telegraph of [[ch-20-polybius-torch-cipher|Chapter 20]]. |
+| **Treatment of the biliteral cipher** | Originator. Described in *De Augmentis* Book 6, Chapter 8. | Explainer and extender. Discusses it in [Chapter 9](concepts/ch-9-barbarous-words.md) as one instance of the general principle that any alphabet can be reduced to two symbols. Connects it to the torch telegraph of [Chapter 20](concepts/ch-20-polybius-torch-cipher.md). |
 | **Tone and audience** | Philosophical, addressed to James I — a statesman-philosopher mapping the intellectual world for the benefit of a monarch | Practical, addressed to "statesmen and soldiers" — a working clergyman equipping men of action with useful knowledge |
 | **Relationship to magic** | Rejected magic as part of his reform of natural philosophy — the "Idols of the Theatre" | Carefully distinguished genuine cryptography from "magical, or fabulous" traditions, cataloguing both while demarcating the boundary between science and credulity |
-| **Universal language vision** | Speculated about "characters that express neither letters nor words, but things and notions" — a "real character" — as a possibility | Made the universal character the subject of [[ch-13-universal-character|Chapter 13]] of *Mercury* and spent 27 years developing it into the *Essay towards a Real Character* (1668) |
-| **Historical range** | Drew mainly on classical precedent; his bibliographic sources were limited | Exhaustively cited classical, medieval, and Renaissance sources — [[trithemius|Trithemius]], [[porta-baptista|Porta]], Selenus, [[bede|Bede]], [[josephus|Josephus]], and dozens more |
+| **Universal language vision** | Speculated about "characters that express neither letters nor words, but things and notions" — a "real character" — as a possibility | Made the universal character the subject of [Chapter 13](concepts/ch-13-universal-character.md) of *Mercury* and spent 27 years developing it into the *Essay towards a Real Character* (1668) |
+| **Historical range** | Drew mainly on classical precedent; his bibliographic sources were limited | Exhaustively cited classical, medieval, and Renaissance sources — [Trithemius](entities/trithemius.md), [Porta](entities/porta-baptista.md), Selenus, [Bede](entities/bede.md), [Josephus](entities/josephus.md), and dozens more |
 
 ## The Biliteral Cipher: Theory Becomes Practice
 
@@ -52,7 +52,7 @@ Bacon classified cryptography under Grammar as a "deficient part" — meaning th
 
 3. **Practical utility**: Bacon insisted knowledge should bear fruit in "works" — practical applications. Wilkins never loses sight of this: secrecy, speed, and reliability are the organising principles throughout.
 
-4. **Demarcation**: Bacon's rejection of the "Idols" — systematic errors of thought — finds its echo in Wilkins's careful separation of genuine cryptographic technique from magical and fabulous claims (treated separately in [[ch-19-fabulous-magical|Chapter 19]]).
+4. **Demarcation**: Bacon's rejection of the "Idols" — systematic errors of thought — finds its echo in Wilkins's careful separation of genuine cryptographic technique from magical and fabulous claims (treated separately in [Chapter 19](concepts/ch-19-fabulous-magical.md)).
 
 5. **The expansion of scope**: Bacon classified cryptography under Grammar. Wilkins expands it to encompass the full spectrum of communication — speech, writing, and gesture — treating expression itself as currency: "expressions being current for conceits, as money is for valuations."
 
@@ -66,11 +66,11 @@ The phrase "our English Aristotle" is not flattery. It is Wilkins's acknowledgme
 
 ## Cross-References
 
-- [[bacon-francis]] — full entity page
-- [[john-wilkins]] — full entity page
-- [[mercury-wilkins]] — the book
-- [[ch-9-barbarous-words]] — the biliteral cipher in *Mercury*
-- [[ch-13-universal-character]] — the seed of the universal language
-- [[ch-20-polybius-torch-cipher]] — the binary principle in telegraphy
-- [[bacon-cipher]] — technical details of the biliteral cipher
-- [[universal-language-project]] — Wilkins's *Essay* as Baconian fulfilment
+- [bacon-francis](entities/bacon-francis.md) — full entity page
+- [john-wilkins](entities/john-wilkins.md) — full entity page
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book
+- [ch-9-barbarous-words](concepts/ch-9-barbarous-words.md) — the biliteral cipher in *Mercury*
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — the seed of the universal language
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — the binary principle in telegraphy
+- [bacon-cipher](concepts/bacon-cipher.md) — technical details of the biliteral cipher
+- [universal-language-project](concepts/universal-language-project.md) — Wilkins's *Essay* as Baconian fulfilment

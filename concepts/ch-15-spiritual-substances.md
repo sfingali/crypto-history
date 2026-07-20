@@ -82,8 +82,8 @@ In Chapter 20, Wilkins will suggest an alternative reading: Trithemius may have 
 
 ## Connections
 
-- [[ch-16-swiftness-by-bodies]] — physical messengers (the practical alternative)
-- [[ch-20-polybius-torch-cipher]] — where Wilkins reinterprets Trithemius's angels as signal beacons
-- [[trithemius]] — the abbot and his controversial works
-- [[ch-19-fabulous-magical]] — more fabulous and magical claims
-- [[ch-1-dependence-in-nature]] — angels as communicators, returning to Chapter 1's opening
+- [ch-16-swiftness-by-bodies](concepts/ch-16-swiftness-by-bodies.md) — physical messengers (the practical alternative)
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — where Wilkins reinterprets Trithemius's angels as signal beacons
+- [trithemius](entities/trithemius.md) — the abbot and his controversial works
+- [ch-19-fabulous-magical](concepts/ch-19-fabulous-magical.md) — more fabulous and magical claims
+- [ch-1-dependence-in-nature](concepts/ch-1-dependence-in-nature.md) — angels as communicators, returning to Chapter 1's opening

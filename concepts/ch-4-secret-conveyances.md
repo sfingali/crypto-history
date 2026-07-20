@@ -107,7 +107,7 @@ Wilkins had discussed flying chariots in his first book, *The Discovery of a Wor
 
 ## Connections
 
-- [[ch-5-materials]] — secrecy by paper and ink
-- [[ch-16-swiftness-by-bodies]] — birds and flying machines
-- [[ch-6-transposition]] — moving from physical concealment to written secrecy
-- [[ch-20-polybius-torch-cipher]] — the flying chariot fantasy versus signal fire reality
+- [ch-5-materials](concepts/ch-5-materials.md) — secrecy by paper and ink
+- [ch-16-swiftness-by-bodies](concepts/ch-16-swiftness-by-bodies.md) — birds and flying machines
+- [ch-6-transposition](concepts/ch-6-transposition.md) — moving from physical concealment to written secrecy
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — the flying chariot fantasy versus signal fire reality

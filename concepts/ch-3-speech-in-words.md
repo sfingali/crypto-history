@@ -47,7 +47,7 @@ Where *Salutem* is expressed by inverting the letters. Or: *"Stisho estad, veca 
 
 ### 2. Transmutation
 
-Mutual changing of one letter for another in pronunciation — the spoken equivalent of the substitution ciphers in [[ch-7-equal-letters-powers|Chapter 7]]. Wilkins admits "this may seem of great difficulty, yet use and experience will make it easy."
+Mutual changing of one letter for another in pronunciation — the spoken equivalent of the substitution ciphers in [Chapter 7](concepts/ch-7-equal-letters-powers.md). Wilkins admits "this may seem of great difficulty, yet use and experience will make it easy."
 
 ### 3. Diminution (Contraction)
 
@@ -79,7 +79,7 @@ A person speaking gibberish or inverted words is obviously hiding something — 
 
 ## Connections
 
-- [[ch-2-secrecy-conditions]] — the conditions that these methods fail (suspicion)
-- [[ch-7-equal-letters-powers]] — transmutation in writing (key-character cipher)
-- [[ch-6-transposition]] — written transposition, the written counterpart of inversion
-- [[ch-14-signs-gestures]] — another candid but suspicious method
+- [ch-2-secrecy-conditions](concepts/ch-2-secrecy-conditions.md) — the conditions that these methods fail (suspicion)
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — transmutation in writing (key-character cipher)
+- [ch-6-transposition](concepts/ch-6-transposition.md) — written transposition, the written counterpart of inversion
+- [ch-14-signs-gestures](concepts/ch-14-signs-gestures.md) — another candid but suspicious method

@@ -10,7 +10,7 @@ confidence: high
 
 # John Wilkins (1614–1672)
 
-**John Wilkins** was a clergyman, natural philosopher, cryptographer, linguist, and one of the most influential figures in 17th-century English science. He was the founder and first secretary of the [[royal-society|Royal Society]], Bishop of Chester, and the author of the **first book on cryptology written in English** — [[mercury-wilkins|Mercury: or the Secret and Swift Messenger]] (1641).
+**John Wilkins** was a clergyman, natural philosopher, cryptographer, linguist, and one of the most influential figures in 17th-century English science. He was the founder and first secretary of the [Royal Society](entities/royal-society.md), Bishop of Chester, and the author of the **first book on cryptology written in English** — [Mercury: or the Secret and Swift Messenger](entities/mercury-wilkins.md) (1641).
 
 ## Biography
 
@@ -26,13 +26,13 @@ In 1656, he married **Robina French** (née Cromwell), the widowed sister of Oli
 
 ### Royal Society
 
-Wilkins was the driving force behind the founding of the [[royal-society|Royal Society]] in 1660 and served as its first secretary. His vision of collaborative, empirical inquiry — "the new philosophy" — shaped the Society's founding ethos. He was described by contemporaries as "the principal reviver of experimental philosophy" and was known for his generous temperament and ability to foster intellectual community.
+Wilkins was the driving force behind the founding of the [Royal Society](entities/royal-society.md) in 1660 and served as its first secretary. His vision of collaborative, empirical inquiry — "the new philosophy" — shaped the Society's founding ethos. He was described by contemporaries as "the principal reviver of experimental philosophy" and was known for his generous temperament and ability to foster intellectual community.
 
 ### Universal Language
 
-Beyond cryptography, Wilkins's most ambitious project was **[[universal-language-project|a universal philosophical language]]** — a system where symbols would represent things and concepts directly, bypassing the confusions of natural languages. This occupied him for decades and culminated in his masterpiece: *An Essay towards a Real Character and a Philosophical Language* (1668), published the same year he became Bishop.
+Beyond cryptography, Wilkins's most ambitious project was **[a universal philosophical language](concepts/universal-language-project.md)** — a system where symbols would represent things and concepts directly, bypassing the confusions of natural languages. This occupied him for decades and culminated in his masterpiece: *An Essay towards a Real Character and a Philosophical Language* (1668), published the same year he became Bishop.
 
-The seeds of this project are clearly visible in [[ch-13-universal-character|Chapter 13]] of *Mercury*, where he first articulated the dream of communication that transcends linguistic barriers.
+The seeds of this project are clearly visible in [Chapter 13](concepts/ch-13-universal-character.md) of *Mercury*, where he first articulated the dream of communication that transcends linguistic barriers.
 
 ### Death
 
@@ -42,7 +42,7 @@ Wilkins died on 19 November 1672 in London and was buried in St. Lawrence Jewry.
 
 | Work | Year | Significance |
 |------|------|-------------|
-| *The Discovery of a World in the Moone* | 1638 | Defence of Copernican astronomy; speculation on lunar travel; cites [[francis-godwin|Godwin's]] *The Man in the Moone* |
+| *The Discovery of a World in the Moone* | 1638 | Defence of Copernican astronomy; speculation on lunar travel; cites [Godwin's](entities/francis-godwin.md) *The Man in the Moone* |
 | *Mercury, or the Secret and Swift Messenger* | 1641 | **First cryptology book in English**; introduces terms *cryptographia*, *cryptologia*, *semaeologia*; first articulation of universal character concept |
 | *Mathematical Magick* | 1648 | Mechanical powers and automata; flying chariots; submarine navigation |
 | *An Essay towards a Real Character and a Philosophical Language* | 1668 | Universal language system; classification of all knowledge; influenced Leibniz, Dalgarno, and modern thesauri |
@@ -50,7 +50,7 @@ Wilkins died on 19 November 1672 in London and was buried in St. Lawrence Jewry.
 
 ## Connection to *Mercury*
 
-*Mercury* (1641) was Wilkins's second major book. In the preface "To the Reader," he explains that it was occasioned by reading [[francis-godwin|Francis Godwin's]] *Nuntius Inanimatus* — a Latin pamphlet promising certain ways to communicate secretly at great distances. At first he was incredulous, but the reputation of its author (Godwin, a bishop) led him to take it seriously. He then collected "all such notes to this purpose as I met with in the course of my other studies" and composed his encyclopaedic treatment of the subject.
+*Mercury* (1641) was Wilkins's second major book. In the preface "To the Reader," he explains that it was occasioned by reading [Francis Godwin's](entities/francis-godwin.md) *Nuntius Inanimatus* — a Latin pamphlet promising certain ways to communicate secretly at great distances. At first he was incredulous, but the reputation of its author (Godwin, a bishop) led him to take it seriously. He then collected "all such notes to this purpose as I met with in the course of my other studies" and composed his encyclopaedic treatment of the subject.
 
 The book was initially published anonymously (the commendatory verses address "the Unknown Author"), but the second edition of the same year revealed his name.
 
@@ -62,8 +62,8 @@ His contributions span cryptography, linguistics, astronomy, mechanics, and theo
 
 ## Cross-References
 
-- [[mercury-wilkins]] — the book
-- [[francis-godwin]] — inspiration for *Mercury*
-- [[polybius-cipher]] — the torch cipher from Chapter 20
-- [[universal-language-project]] — Wilkins's life's work
-- [[royal-society]] — the institution he founded
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book
+- [francis-godwin](entities/francis-godwin.md) — inspiration for *Mercury*
+- [polybius-cipher](entities/polybius-cipher.md) — the torch cipher from Chapter 20
+- [universal-language-project](concepts/universal-language-project.md) — Wilkins's life's work
+- [royal-society](entities/royal-society.md) — the institution he founded

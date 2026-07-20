@@ -123,22 +123,22 @@ This is the highest art: a secret message hidden in a drawing of trees, hills, a
 
 ## Connections
 
-- [[ch-6-transposition]] — transposition applied to invented characters
-- [[ch-7-equal-letters-powers]] — substitution applied to invented characters
-- [[ch-12-shorthand]] — characters expressing words (stenography)
-- [[ch-13-universal-character]] — characters expressing things and notions
+- [ch-6-transposition](concepts/ch-6-transposition.md) — transposition applied to invented characters
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — substitution applied to invented characters
+- [ch-12-shorthand](concepts/ch-12-shorthand.md) — characters expressing words (stenography)
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — characters expressing things and notions
 
 ## Diagrams in the Original
 
 Wilkins's geometrical ciphers are best appreciated through the 1694 woodcuts:
 
-![[assets/ch11-points-cipher.png]]
+![ch11-points-cipher.png](assets/ch11-points-cipher.png)
 *Points-alone cipher — dots at varying heights encode letters*
 
-![[assets/ch11-lines-cipher.png]]
+![ch11-lines-cipher.png](assets/ch11-lines-cipher.png)
 *Lines-alone cipher — line segments of varying slope*
 
-![[assets/ch11-mathematical-figures.png]]
+![ch11-mathematical-figures.png](assets/ch11-mathematical-figures.png)
 *Mathematical figures — triangles and circles encoding text as geometry* ^[1802:6416-6550]
-- [[frequency-analysis]] — the method in detail
-- [[porta-baptista]] — Porta's detailed treatment of frequency analysis
+- [frequency-analysis](concepts/frequency-analysis.md) — the method in detail
+- [porta-baptista](entities/porta-baptista.md) — Porta's detailed treatment of frequency analysis

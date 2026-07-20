@@ -94,12 +94,12 @@ Nevertheless, two cipher principles described in *Mercury* did see real-world us
 
 ## Cross-References
 
-- [[john-wilkins]]
-- [[universal-language-project]]
-- [[polybius-cipher]]
-- [[francis-godwin]]
-- [[royal-society]]
-- [[history-of-cryptography]]
+- [john-wilkins](entities/john-wilkins.md)
+- [universal-language-project](concepts/universal-language-project.md)
+- [polybius-cipher](entities/polybius-cipher.md)
+- [francis-godwin](entities/francis-godwin.md)
+- [royal-society](entities/royal-society.md)
+- [history-of-cryptography](concepts/history-of-cryptography.md)
 
 ## Sources
 

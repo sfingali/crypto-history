@@ -100,7 +100,7 @@ A square tablet with the 24 letters on top at equal distances, with "divers litt
 
 ## Connections
 
-- [[ch-4-secret-conveyances]] — physical concealment (preceding chapter)
-- [[ch-6-transposition]] — secrecy in the form of writing, beginning the core cryptography
-- [[ch-11-invented-characters]] — the knot/thread system revisited with more sophistication
-- [[magic-naturalis]] — Porta's *Natural Magic*, the source of many ink recipes
+- [ch-4-secret-conveyances](concepts/ch-4-secret-conveyances.md) — physical concealment (preceding chapter)
+- [ch-6-transposition](concepts/ch-6-transposition.md) — secrecy in the form of writing, beginning the core cryptography
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — the knot/thread system revisited with more sophistication
+- [magic-naturalis](concepts/magic-naturalis.md) — Porta's *Natural Magic*, the source of many ink recipes

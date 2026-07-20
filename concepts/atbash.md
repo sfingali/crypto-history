@@ -10,7 +10,7 @@ confidence: high
 
 # The ATBASH Cipher (אתבש)
 
-The **ATBASH cipher** (Hebrew: אתבש) is one of the oldest known substitution ciphers — a reverse-alphabet substitution where the first letter of the Hebrew alphabet is replaced with the last, the second with the second-to-last, and so on. [[john-wilkins|John Wilkins]] presents it in [[ch-7-equal-letters-powers|Chapter 7]] of [[mercury-wilkins|*Mercury*]] as the most significant example of Hebrew cabalistic cryptography, complete with its biblical attestations.
+The **ATBASH cipher** (Hebrew: אתבש) is one of the oldest known substitution ciphers — a reverse-alphabet substitution where the first letter of the Hebrew alphabet is replaced with the last, the second with the second-to-last, and so on. [John Wilkins](entities/john-wilkins.md) presents it in [Chapter 7](concepts/ch-7-equal-letters-powers.md) of [*Mercury*](entities/mercury-wilkins.md) as the most significant example of Hebrew cabalistic cryptography, complete with its biblical attestations.
 
 ## The Method: Reverse-Alphabet Substitution
 
@@ -112,7 +112,7 @@ For Wilkins, ATBASH also serves an important rhetorical purpose: it proves that 
 
 ## Cross-References
 
-- [[ch-7-equal-letters-powers]] — the chapter where ATBASH is explained
-- [[mercury-wilkins]] — *Mercury* as first English presentation of ATBASH
-- [[john-wilkins]] — the author
-- [[frequency-analysis]] — the method for breaking substitution ciphers including ATBASH
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — the chapter where ATBASH is explained
+- [mercury-wilkins](entities/mercury-wilkins.md) — *Mercury* as first English presentation of ATBASH
+- [john-wilkins](entities/john-wilkins.md) — the author
+- [frequency-analysis](concepts/frequency-analysis.md) — the method for breaking substitution ciphers including ATBASH

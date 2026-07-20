@@ -102,6 +102,6 @@ Wilkins notes the Talmudic tradition of parabolic teaching, and warns that "many
 
 ## Connections
 
-- [[ch-3-speech-in-words]] — the other type of cryptologia (secrecy by words, not matter)
-- [[ch-4-secret-conveyances]] — moving from speech to writing
-- [[ch-14-signs-gestures]] — semaeologia, the third branch
+- [ch-3-speech-in-words](concepts/ch-3-speech-in-words.md) — the other type of cryptologia (secrecy by words, not matter)
+- [ch-4-secret-conveyances](concepts/ch-4-secret-conveyances.md) — moving from speech to writing
+- [ch-14-signs-gestures](concepts/ch-14-signs-gestures.md) — semaeologia, the third branch

@@ -117,8 +117,8 @@ Custom abbreviations, agreed upon in advance between two parties, could serve cr
 
 ## Connections
 
-- [[ch-8-more-letters]] — the complementary approach
-- [[ch-9-barbarous-words]] — encoding with more characters vs. fewer
-- [[ch-11-invented-characters]] — next chapter: invented rather than abbreviated characters
-- [[ch-12-shorthand]] — stenography, where abbreviation meets speed
-- [[notarikon]] — the Jewish cabalistic method discussed more fully
+- [ch-8-more-letters](concepts/ch-8-more-letters.md) — the complementary approach
+- [ch-9-barbarous-words](concepts/ch-9-barbarous-words.md) — encoding with more characters vs. fewer
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — next chapter: invented rather than abbreviated characters
+- [ch-12-shorthand](concepts/ch-12-shorthand.md) — stenography, where abbreviation meets speed
+- [notarikon](concepts/notarikon.md) — the Jewish cabalistic method discussed more fully

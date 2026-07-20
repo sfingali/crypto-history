@@ -88,9 +88,9 @@ He will also mention "magical or fabulous" methods "received upon common traditi
 
 ## Connections
 
-- [[ch-2-secrecy-conditions]] — the criteria for true secrecy
-- [[ch-14-signs-gestures]] — the third mode of discourse, foreshadowed here
-- [[ch-15-spiritual-substances]] — swiftness by angels and spirits
-- [[ch-16-swiftness-by-bodies]] — swiftness by men, beasts, and birds
-- [[josephus]] — the language-as-natural argument refuted
-- [[bacon-francis]] — Bacon's role in classifying this knowledge
+- [ch-2-secrecy-conditions](concepts/ch-2-secrecy-conditions.md) — the criteria for true secrecy
+- [ch-14-signs-gestures](concepts/ch-14-signs-gestures.md) — the third mode of discourse, foreshadowed here
+- [ch-15-spiritual-substances](concepts/ch-15-spiritual-substances.md) — swiftness by angels and spirits
+- [ch-16-swiftness-by-bodies](concepts/ch-16-swiftness-by-bodies.md) — swiftness by men, beasts, and birds
+- [josephus](entities/josephus.md) — the language-as-natural argument refuted
+- [bacon-francis](entities/bacon-francis.md) — Bacon's role in classifying this knowledge

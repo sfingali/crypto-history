@@ -98,7 +98,7 @@ Carrier pigeons were used extensively in the wars of Wilkins's era.
 
 ## Connections
 
-- [[ch-4-secret-conveyances]] — arrows and slings for secret conveyance
-- [[ch-15-spiritual-substances]] — angels vs. physical messengers
-- [[ch-17-joining-secrecy-swiftness-sound]] — the transition to non-physical (sound) swift messengers
-- [[carrier-pigeons]] — the history of pigeon post
+- [ch-4-secret-conveyances](concepts/ch-4-secret-conveyances.md) — arrows and slings for secret conveyance
+- [ch-15-spiritual-substances](concepts/ch-15-spiritual-substances.md) — angels vs. physical messengers
+- [ch-17-joining-secrecy-swiftness-sound](concepts/ch-17-joining-secrecy-swiftness-sound.md) — the transition to non-physical (sound) swift messengers
+- [carrier-pigeons](concepts/carrier-pigeons.md) — the history of pigeon post

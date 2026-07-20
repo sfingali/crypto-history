@@ -78,9 +78,9 @@ This is a code-book approach: every letter maps to a different innocuous word or
 
 ## Connections
 
-- [[ch-9-barbarous-words]] — counterpart method (encoding into nonsense rather than cover text)
-- [[ch-10-fewer-letters]] — the opposite approach (less letters, not more)
-- [[ch-11-invented-characters]] — moving from common letters to invented ones
-- [[cardan-grille]] — the grille cipher in detail
-- [[notarikon]] — the Jewish cabalistic method
-- [[trithemius]] — the code-book system
+- [ch-9-barbarous-words](concepts/ch-9-barbarous-words.md) — counterpart method (encoding into nonsense rather than cover text)
+- [ch-10-fewer-letters](concepts/ch-10-fewer-letters.md) — the opposite approach (less letters, not more)
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — moving from common letters to invented ones
+- [cardan-grille](concepts/cardan-grille.md) — the grille cipher in detail
+- [notarikon](concepts/notarikon.md) — the Jewish cabalistic method
+- [trithemius](entities/trithemius.md) — the code-book system

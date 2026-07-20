@@ -10,13 +10,13 @@ confidence: high
 
 # Gottfried Wilhelm Leibniz (1646–1716)
 
-**Gottfried Wilhelm Leibniz** was a German polymath — mathematician, philosopher, logician, diplomat, and linguist — whose lifelong project of a *characteristica universalis* (universal characteristic) was directly influenced by [[john-wilkins|John Wilkins's]] work on universal language, particularly [[universal-language-project|*An Essay towards a Real Character and a Philosophical Language*]] (1668).
+**Gottfried Wilhelm Leibniz** was a German polymath — mathematician, philosopher, logician, diplomat, and linguist — whose lifelong project of a *characteristica universalis* (universal characteristic) was directly influenced by [John Wilkins's](entities/john-wilkins.md) work on universal language, particularly [*An Essay towards a Real Character and a Philosophical Language*](concepts/universal-language-project.md) (1668).
 
 ## Life and Scope
 
 Leibniz was born in Leipzig in 1646, the son of a moral philosophy professor. He studied law and philosophy but ranged across virtually every field of knowledge: he invented calculus independently of Newton (producing a more elegant notation still used today), wrote on metaphysics (monadology), designed calculating machines, reformed library cataloguing, and served as diplomat and historian to the House of Hanover.
 
-He was elected a **Fellow of the [[royal-society|Royal Society]]** in 1673, visiting London that same year. He maintained extensive correspondence with scholars across Europe — a network of letters numbering over 15,000.
+He was elected a **Fellow of the [Royal Society](entities/royal-society.md)** in 1673, visiting London that same year. He maintained extensive correspondence with scholars across Europe — a network of letters numbering over 15,000.
 
 ## The *Characteristica Universalis*
 
@@ -66,8 +66,8 @@ Both men shared the conviction that the confusion of tongues at Babel was a prob
 
 ## Cross-References
 
-- [[john-wilkins]] — the English counterpart whose work inspired him
-- [[universal-language-project]] — Wilkins's *Essay* (1668)
-- [[royal-society]] — the institution where both men were Fellows
-- [[ch-13-universal-character]] — the seed chapter in *Mercury* (1641)
-- [[mercury-wilkins]] — the book that first articulated the universal character vision
+- [john-wilkins](entities/john-wilkins.md) — the English counterpart whose work inspired him
+- [universal-language-project](concepts/universal-language-project.md) — Wilkins's *Essay* (1668)
+- [royal-society](entities/royal-society.md) — the institution where both men were Fellows
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — the seed chapter in *Mercury* (1641)
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book that first articulated the universal character vision

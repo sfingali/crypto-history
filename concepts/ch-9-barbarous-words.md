@@ -154,19 +154,19 @@ Wilkins imagines a practical scenario:
 
 ## Connections
 
-- [[ch-7-equal-letters-powers]] — the key-character cipher, combinable with this method
-- [[ch-8-more-letters]] — other methods of using more letters
-- [[ch-17-joining-secrecy-swiftness-sound]] — binary encoding applied to bells and cannons
-- [[polybius-cipher]] — binary/coordinate method applied to torches
-- [[bacon-cipher]] — Bacon's biliteral cipher, directly referenced
-- [[ch-20-polybius-torch-cipher]] — application to signal fires
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — the key-character cipher, combinable with this method
+- [ch-8-more-letters](concepts/ch-8-more-letters.md) — other methods of using more letters
+- [ch-17-joining-secrecy-swiftness-sound](concepts/ch-17-joining-secrecy-swiftness-sound.md) — binary encoding applied to bells and cannons
+- [polybius-cipher](entities/polybius-cipher.md) — binary/coordinate method applied to torches
+- [bacon-cipher](concepts/bacon-cipher.md) — Bacon's biliteral cipher, directly referenced
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — application to signal fires
 
 ## Diagrams in the Original
 
 The 1694 edition contains woodcut tables for this chapter — among the earliest printed binary encoding tables:
 
-![[assets/ch9-binary-alphabet.png]]
+![ch9-binary-alphabet.png](assets/ch9-binary-alphabet.png)
 *Binary alphabet: any 2 letters transposed through 5 positions yield 32 combinations*
 
-![[assets/ch9-double-alphabet.png]]
+![ch9-double-alphabet.png](assets/ch9-double-alphabet.png)
 *Double-alphabet encoding grid with Latin example* ^[1802:5691-5920]

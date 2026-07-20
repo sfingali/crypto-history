@@ -10,7 +10,7 @@ confidence: high
 
 # The Venerable Bede (c. 673–735)
 
-**The Venerable Bede** was an Anglo-Saxon monk, historian, and scholar at the monastery of Jarrow in Northumbria, best known for his *Ecclesiastical History of the English People* (731). But in [[mercury-wilkins|*Mercury*]], [[john-wilkins|Wilkins]] references Bede for a more obscure contribution: his treatise *De Loquela per Gestum Digitorum* ("On Speaking Through the Gestures of the Fingers"), which made Bede an early authority on **dactylology** — finger-signing — and secured his place in the history of sign language and secret communication.
+**The Venerable Bede** was an Anglo-Saxon monk, historian, and scholar at the monastery of Jarrow in Northumbria, best known for his *Ecclesiastical History of the English People* (731). But in [*Mercury*](entities/mercury-wilkins.md), [Wilkins](entities/john-wilkins.md) references Bede for a more obscure contribution: his treatise *De Loquela per Gestum Digitorum* ("On Speaking Through the Gestures of the Fingers"), which made Bede an early authority on **dactylology** — finger-signing — and secured his place in the history of sign language and secret communication.
 
 ## Life and Works
 
@@ -82,7 +82,7 @@ Bede's finger-reckoning treatise was the practical tool that made this complex s
 
 ## Wilkins's Reference (Chapter 14)
 
-In [[ch-14-signs-gestures|Chapter 14]] of *Mercury*, Wilkins introduces the concept of *ex placito* signs — gestures whose meaning derives not from natural resemblance but from "use and mutual compact":
+In [Chapter 14](concepts/ch-14-signs-gestures.md) of *Mercury*, Wilkins introduces the concept of *ex placito* signs — gestures whose meaning derives not from natural resemblance but from "use and mutual compact":
 
 > "But some there are of more especial note for their use and antiquity. Such is that upon the joints and fingers of the hand, commonly stiled *arthrologia*, or *dactylologia*; largely treated of by the venerable Bede, Pierius, and others."
 
@@ -158,8 +158,8 @@ Wilkins's placement of Bede at the foundation of the dactylological tradition in
 
 ## Cross-References
 
-- [[john-wilkins]] — the author who cites Bede
-- [[mercury-wilkins]] — the book (Chapter 14)
-- [[ch-14-signs-gestures]] — the chapter where Bede appears
-- [[ch-13-universal-character]] — universal characters, another form of language-independent communication
-- [[deaf-communication-history]] — the deaf education tradition
+- [john-wilkins](entities/john-wilkins.md) — the author who cites Bede
+- [mercury-wilkins](entities/mercury-wilkins.md) — the book (Chapter 14)
+- [ch-14-signs-gestures](concepts/ch-14-signs-gestures.md) — the chapter where Bede appears
+- [ch-13-universal-character](concepts/ch-13-universal-character.md) — universal characters, another form of language-independent communication
+- [deaf-communication-history](concepts/deaf-communication-history.md) — the deaf education tradition

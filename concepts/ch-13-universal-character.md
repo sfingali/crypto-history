@@ -100,13 +100,13 @@ This is Wilkins launching his life's project — inviting himself and others to 
 
 ## Connections
 
-- [[universal-language-project]] — Wilkins's later *Essay* (1668)
-- [[ch-12-shorthand]] — characters for words, preceding this chapter
-- [[ch-11-invented-characters]] — characters for letters
-- [[ch-1-dependence-in-nature]] — the original vision of communication across difference
-- [[ch-18-musical-notes]] — universal language by musical notes
-- [[john-wilkins]] — the author's biography
-- [[leibniz]] — who was influenced by Wilkins's universal language
+- [universal-language-project](concepts/universal-language-project.md) — Wilkins's later *Essay* (1668)
+- [ch-12-shorthand](concepts/ch-12-shorthand.md) — characters for words, preceding this chapter
+- [ch-11-invented-characters](concepts/ch-11-invented-characters.md) — characters for letters
+- [ch-1-dependence-in-nature](concepts/ch-1-dependence-in-nature.md) — the original vision of communication across difference
+- [ch-18-musical-notes](concepts/ch-18-musical-notes.md) — universal language by musical notes
+- [john-wilkins](entities/john-wilkins.md) — the author's biography
+- [leibniz](entities/leibniz.md) — who was influenced by Wilkins's universal language
 
 ## Diagrams in the Original
 

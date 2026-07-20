@@ -10,7 +10,7 @@ confidence: high
 
 # Johannes Trithemius (1462–1516)
 
-**Johannes Trithemius** (born Johann Heidenberg) was a German Benedictine abbot, scholar, and cryptographer whose works *Steganographia* and *Polygraphia* are among the most controversial and influential texts in the history of secret communication. [[john-wilkins|John Wilkins]], in [[mercury-wilkins|*Mercury*]], treats Trithemius with respect but also with caution — his reputation for magic required careful handling.
+**Johannes Trithemius** (born Johann Heidenberg) was a German Benedictine abbot, scholar, and cryptographer whose works *Steganographia* and *Polygraphia* are among the most controversial and influential texts in the history of secret communication. [John Wilkins](entities/john-wilkins.md), in [*Mercury*](entities/mercury-wilkins.md), treats Trithemius with respect but also with caution — his reputation for magic required careful handling.
 
 ## Life
 
@@ -40,9 +40,9 @@ Selenus (Gustavus Selenus, author of *Cryptomenytices et Cryptographiae*, 1624) 
 
 Published posthumously, *Polygraphia* ("Many Writings") is Trithemius's openly cryptographic work — no spirits, no demons. It contains:
 
-- **The *tabula recta***: a square of alphabets — the ancestor of the Vigenère cipher. Each row begins with the next letter, producing a table of 24 × 24 letters (J and V omitted). This is the key-character system that Wilkins describes in [[ch-7-equal-letters-powers|Chapter 7]].
+- **The *tabula recta***: a square of alphabets — the ancestor of the Vigenère cipher. Each row begins with the next letter, producing a table of 24 × 24 letters (J and V omitted). This is the key-character system that Wilkins describes in [Chapter 7](concepts/ch-7-equal-letters-powers.md).
 - **The *Ave Maria* cipher**: messages disguised as prayers
-- **Code-book systems**: pre-arranged tables where each plaintext letter maps to a word; Wilkins describes this method in [[ch-8-more-letters|Chapter 8]] as "much insisted on by Trithemius, Porta, and Sylenus"
+- **Code-book systems**: pre-arranged tables where each plaintext letter maps to a word; Wilkins describes this method in [Chapter 8](concepts/ch-8-more-letters.md) as "much insisted on by Trithemius, Porta, and Sylenus"
 
 *Polygraphia* is the **first printed book on cryptography** — though *Mercury* (1641) is the first in English.
 
@@ -79,9 +79,9 @@ Wilkins's gentle but persistent defence of Trithemius reflects a broader 17th-ce
 
 ## Cross-References
 
-- [[mercury-wilkins]] — Wilkins's treatment of Trithemius
-- [[ch-15-spiritual-substances]] — the burned manuscript and saturnine angels
-- [[ch-8-more-letters]] — the code-book cipher
-- [[ch-7-equal-letters-powers]] — the tabula recta as ancestor of key-character
-- [[ch-20-polybius-torch-cipher]] — Wilkins's reinterpretation as signal relays
-- [[porta-baptista]] — Porta, frequently paired with Trithemius by Wilkins
+- [mercury-wilkins](entities/mercury-wilkins.md) — Wilkins's treatment of Trithemius
+- [ch-15-spiritual-substances](concepts/ch-15-spiritual-substances.md) — the burned manuscript and saturnine angels
+- [ch-8-more-letters](concepts/ch-8-more-letters.md) — the code-book cipher
+- [ch-7-equal-letters-powers](concepts/ch-7-equal-letters-powers.md) — the tabula recta as ancestor of key-character
+- [ch-20-polybius-torch-cipher](concepts/ch-20-polybius-torch-cipher.md) — Wilkins's reinterpretation as signal relays
+- [porta-baptista](entities/porta-baptista.md) — Porta, frequently paired with Trithemius by Wilkins
