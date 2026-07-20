@@ -1,0 +1,11 @@
+# Large source files (don't push to GitHub)
+raw/mercury-1694.pdf
+raw/mercury-1802.txt
+
+# Git
+.git/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
