@@ -2,22 +2,31 @@
 
 A structured knowledge base centred on **John Wilkins's *Mercury: or the Secret and Swift Messenger*** (1641) — the first book on cryptology written in English.
 
-Built using the [[SCHEMA|LLM Wiki]] methodology. 48+ interlinked pages covering every chapter, every cipher system, and the intellectual context of 17th-century cryptography.
+52 interlinked pages covering every chapter, every cipher system, and the intellectual context of 17th-century cryptography, with 16 original woodcut diagrams from the 1694 edition.
 
-## Structure
+## Where to start
 
-- `concepts/` — 21 chapter pages + 14 supporting concept pages
-- `entities/` — 11 biographical and institutional pages
-- `comparisons/` — Side-by-side analyses
-- `assets/` — Woodcut diagrams from the 1694 edition
-- `raw/` — Source texts (1694 PDF, 1802 transcription)
-- `SCHEMA.md` — Conventions and tag taxonomy
-- `index.md` — Complete content catalog
+| You want to... | Click here |
+|----------------|-----------|
+| Understand the book | [entities/mercury-wilkins.md](entities/mercury-wilkins.md) — full overview |
+| Browse all pages | [index.md](index.md) — complete catalog |
+| See the cipher systems | [concepts/](concepts/) — 21 chapter pages + 14 supporting concepts |
+| Read about the people | [entities/](entities/) — Wilkins, Bacon, Porta, Leibniz, Bede... |
+| Compare approaches | [comparisons/](comparisons/) — side-by-side analyses |
+| See the original woodcuts | [assets/](assets/) — 16 diagrams from the 1694 edition |
+| Check conventions | [SCHEMA.md](SCHEMA.md) — structure and tag taxonomy |
 
-## Quick Start
+## Reading order
 
-Start at [[mercury-wilkins|Mercury]] for the book overview, then follow the chapter links or browse [[index|the index]].
+1. **[mercury-wilkins.md](entities/mercury-wilkins.md)** — the book's structure, significance, and historical context
+2. **[ch-1-dependence-in-nature.md](concepts/ch-1-dependence-in-nature.md)** — start the chapter-by-chapter readthrough
+3. Jump to any chapter — the [Polybius torch cipher](concepts/ch-20-polybius-torch-cipher.md) and [ATBASH cipher](concepts/atbash.md) are particularly detailed
+4. **[history-of-cryptography.md](concepts/history-of-cryptography.md)** — timeline from Polybius to the Royal Society
+
+## Obsidian
+
+Clone and open as an Obsidian vault. All `[[wikilinks]]` resolve natively. The graph view will show the full knowledge network.
 
 ## License
 
-The original 1641/1694 text by John Wilkins is in the public domain. Wiki content: CC BY 4.0.
+Original 1641/1694 text: public domain. Wiki content: CC BY 4.0.
