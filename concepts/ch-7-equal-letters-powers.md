@@ -97,6 +97,14 @@ This is equivalent to adding a **mixed alphabet** on top of the keyword — two 
 
 - [ch-6-transposition](concepts/ch-6-transposition.md) — the other equal-letters method
 - [ch-8-more-letters](concepts/ch-8-more-letters.md) — next method (more letters than needed)
+
+## Diagrams in the Original
+
+![Key-character alphabet table](assets/ch7-key-character-table.png)
+*Key-character substitution table — multiple alphabets selected by keyword*
+
+![Alphabet grid for substitution](assets/ch7-alphabet-grid.png)
+*Alphabet grid showing letter mappings for the key-character system*
 - [ch-3-speech-in-words](concepts/ch-3-speech-in-words.md) — spoken substitution (transmutation)
 - [polybius-cipher](entities/polybius-cipher.md) — the coordinate-based cipher from Chapter 20
 - [porta-cipher-disk](concepts/porta-cipher-disk.md) — the wheel character mentioned as further refinement

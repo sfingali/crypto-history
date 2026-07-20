@@ -165,8 +165,11 @@ Wilkins imagines a practical scenario:
 
 The 1694 edition contains woodcut tables for this chapter — among the earliest printed binary encoding tables:
 
-![ch9-binary-alphabet.png](assets/ch9-binary-alphabet.png)
+![Binary alphabet table](assets/ch9-binary-alphabet.png)
 *Binary alphabet: any 2 letters transposed through 5 positions yield 32 combinations*
 
-![ch9-double-alphabet.png](assets/ch9-double-alphabet.png)
-*Double-alphabet encoding grid with Latin example* ^[1802:5691-5920]
+![Binary table — second variant](assets/ch9-binary-table-2.png)
+*Alternative binary encoding table*
+
+![Double-alphabet encoding grid](assets/ch9-double-alphabet.png)
+*Double-alphabet encoding grid with Latin example*

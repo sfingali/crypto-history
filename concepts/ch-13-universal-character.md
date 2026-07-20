@@ -111,4 +111,9 @@ This is Wilkins launching his life's project — inviting himself and others to 
 ## Diagrams in the Original
 
 The 1694 edition contains woodcuts of Wilkins's proposed character systems — the earliest printed examples of a constructed philosophical writing system:
-- **Universal character diagrams** (compound symbols with base shapes and modifying marks) — 1694 PDF p.116–120 ^[1802:6946-7100]
+
+![Universal character diagram](assets/ch13-character-diagram.png)
+*Compound symbols with base shapes and modifying marks for concepts*
+
+![Universal character table](assets/ch13-character-table.png)
+*Table of universal characters — symbols represent things directly, not words*
